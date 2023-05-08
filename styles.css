@@ -1,0 +1,185 @@
+body{
+    margin: 0%;
+    color:#4d4352 ;
+    font-size: 17px;
+    font-family: ;
+}
+p{
+    line-height: 2;
+}
+h1{
+   
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    margin: 100px auto 0 auto;
+    color: #AD7BE9;
+    font-weight: lighter;
+    
+   
+}
+h2{
+    color:#AD7BE9;
+    font-size: 2.5rem;
+}
+hr{
+    border-style: dotted none none;
+    width: 7%;
+    border-width: 9px;
+    border-color: #eaf6f6;
+    margin: 100px auto 100px auto;
+}
+a{
+    color:#EAF6F6;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+.top-container{
+    background-image: url("https://img.freepik.com/free-vector/cloudy-purple-pink-background_91008-257.jpg?q=10&h=200");  
+     background-size: cover;
+
+   padding-top: 50px;
+   position: relative;
+   text-align: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 168px;
+    margin-top: 42px;
+}
+
+header img {
+    height: 70px;
+    margin-left: 168px;
+}
+
+header nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+header nav li {
+    margin-right: 73px;
+}
+
+header nav li a {
+    color: #d245ebf0;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+header nav li a:hover {
+    color: #000000;
+}
+   
+    
+.p1{
+    color:#AD7BE9;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    
+}
+.middle-container{
+    text-align: center;
+    
+}
+.profile{
+    
+}
+.profpic{
+    width: 200px;
+
+}
+.intro{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    
+}
+.skills{
+    
+}
+
+.skillicon1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skillicon2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.conme{
+    width: 200px;
+}
+
+
+h3{
+    color:#C1AEFC;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    margin: 10px auto 10px auto;
+    
+    
+}
+
+
+
+
+
+
+.bottom-container{
+    text-align: center;
+    background-color: #C1AEFC;
+    margin-top: 50px;
+    padding: 50px 0 20px ;
+}
+.contact-me{
+    text-align: center;
+    
+}
+.message{
+    width: 25%;
+    margin: 40px auto 40px auto;
+
+}
+
+.btn {
+    background: #C1AEFC;
+    background-image: -webkit-linear-gradient(top,#C1AEFC , #A084DC);
+    background-image: -moz-linear-gradient(top,#C1AEFC , #A084DC);
+    background-image: -ms-linear-gradient(top, #C1AEFC, #A084DC);
+    background-image: -o-linear-gradient(top, #C1AEFC, #A084DC);
+    background-image: linear-gradient(to bottom, #C1AEFC, #A084DC);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #C1AEFC;
+    background-image: -webkit-linear-gradient(top,#C1AEFC, #D9ACF5);
+    background-image: -moz-linear-gradient(top, #C1AEFC, #D9ACF5);
+    background-image: -ms-linear-gradient(top, #C1AEFC, #D9ACF5);
+    background-image: -o-linear-gradient(top, #C1AEFC, #D9ACF5);
+    background-image: linear-gradient(to bottom, #C1AEFC, #D9ACF5);
+    text-decoration: none;
+}
+.copyright{
+    color: #eaf6f6;
+    font-size: 0.75rem;
+}
